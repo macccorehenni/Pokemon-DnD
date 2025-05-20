@@ -1,0 +1,13 @@
+name = "project"
+skipFolders = [ "node_modules", ".vscode", "out", "dist", ".vscode-test" ]
+skipFiles = [ ".gitignore", "package.json" ]
+
+[[processes]]
+id = "e0zbzern8jc0lqldlgggcycq"
+name = "Links to add"
+tasks = [ ]
+
+[[processes]]
+id = "uo1vghjagjv9k2qe8plc1klf"
+name = "Content to fix"
+tasks = [ ]
