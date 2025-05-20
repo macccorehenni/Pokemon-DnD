@@ -1,0 +1,14 @@
+diff --git a/Mechanics/Battle.md b/Mechanics/Battle.md
+index 89bb788..bb6b666 100644
+--- a/Mechanics/Battle.md
++++ b/Mechanics/Battle.md
+@@ -4,4 +4,6 @@
+ 
+ ### Initiative vs speed
+ 
+-The difference between speed and initiative is in *who* is battling. If there is a Pokemon entering battle, this roll is referred to as a "speed" roll. Any Pokemon get their own entry in the 
+\ No newline at end of file
++The difference between speed and initiative is in *who* is battling. If there is a Pokemon entering battle, this roll is referred to as a "speed" roll. Any Pokemon get their own entry in the speed order.
++If only PCs are fighting in the battle, then it is considered initiative. 
++In either case, the 
+\ No newline at end of file
